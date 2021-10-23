@@ -1,5 +1,5 @@
 -    Hi, I’m @Diyora0404
--    I’m interested in testing
+-    I’m interested in Software testing / QA
 -    Live in NYC
 - 📫 How to reach me diyoraabdurakhmonova@gmail.com
 
