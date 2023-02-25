@@ -1,7 +1,7 @@
 -    Hi, I’m @Diyora0404
 -    I’m interested in Software testing / QA
--    Live in NYC
-- 📫 How to reach me diyoraabdurakhmonova@gmail.com
+-    Live in NJ, USA
+- 📫 How to reach me diyora.rajabova04@gmail.com
 
 <!---
 Diyora0404/Diyora0404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
